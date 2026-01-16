@@ -14,9 +14,8 @@ Este proyecto es una aplicación completa para gestionar notas personales, permi
 - **Entorno de ejecución:** Node.js v24.13.0 y npm v11.6.2.
 
 ## 🔧 Instalación y Ejecución
-
-### Configurar el Backend
 ```bash
+### Configurar el Backend
 cd backend
 npm install
 npm run start:dev
