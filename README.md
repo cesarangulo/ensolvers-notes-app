@@ -16,7 +16,7 @@ Este proyecto es una aplicación completa para gestionar notas personales, permi
 ## 🔧 Instalación y Ejecución
 
 ### Configurar el Backend
-
+```bash
 cd backend
 npm install
 npm run start:dev
@@ -24,6 +24,7 @@ npm run start:dev
 Servidor API: http://localhost:3000
 
 ### Configurar el Frontend
+```bash
 cd frontend
 npm install
 npm run dev
