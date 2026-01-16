@@ -31,4 +31,4 @@ Aplicación Web: http://localhost:5173
 
 ### Clonar el repositorio
 git clone <https://github.com/cesarangulo/ensolvers-notes-app.git>
-cd <nombre-de-la-carpeta>
+cd <ensolvers-notes-app>
