@@ -15,9 +15,22 @@ Este proyecto es una aplicación completa para gestionar notas personales, permi
 
 ## 🔧 Instalación y Ejecución
 
-Sigue estos pasos para poner en marcha el proyecto localmente:
+### Configurar el Backend
 
-### 1. Clonar el repositorio
+cd backend
+npm install
+npm run start:dev
+
+Servidor API: http://localhost:3000
+
+### Configurar el Frontend
+cd frontend
+npm install
+npm run dev
+
+Aplicación Web: http://localhost:5173
+
+### Clonar el repositorio
 ```bash
 git clone <https://github.com/cesarangulo/ensolvers-notes-app.git>
 cd <nombre-de-la-carpeta>
