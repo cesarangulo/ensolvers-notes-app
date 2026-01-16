@@ -23,7 +23,6 @@ npm run start:dev
 Servidor API: http://localhost:3000
 
 ### Configurar el Frontend
-```bash
 cd frontend
 npm install
 npm run dev
@@ -31,6 +30,5 @@ npm run dev
 Aplicación Web: http://localhost:5173
 
 ### Clonar el repositorio
-```bash
 git clone <https://github.com/cesarangulo/ensolvers-notes-app.git>
 cd <nombre-de-la-carpeta>
